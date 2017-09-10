@@ -10,3 +10,5 @@ Possible future updates:
  * Port to other languages (e.g C++, C, Javascript, Java, GO, Ruby and Rust).
  * More functions (e.g Add items, Add coins, Add furniture).
  * Enable AS3 and other hashing methods.
+ 
+In the meantime, if you want to try out item or coin adding try looking up its corresponding packets at: http://protocol.clubpenguinwiki.info/
