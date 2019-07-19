@@ -1,5 +1,5 @@
 # NanoPCL
-Super Lightweight Penguin Client Library.  
+Lightweight Penguin Client Script.  
 
 * Language: Python, Perl &amp; PHP.
 * Protocol: AS2.
