@@ -1,4 +1,4 @@
-# NanoPCL
+# NanoPCS
 Lightweight Penguin Client Script.  
 
 * Language: Python, Perl &amp; PHP.
