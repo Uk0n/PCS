@@ -1,5 +1,5 @@
-# NanoPCS
-Lightweight Penguin Client Script.  
+# PCS
+Penguin Client Script.  
 
 * Language: Python, Perl &amp; PHP.
 * Protocol: AS2.
